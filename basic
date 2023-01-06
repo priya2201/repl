@@ -1,0 +1,11 @@
+// > 2+2*3-4
+// 4
+// > "Hello" + "world"
+// 'Helloworld'
+// > 'hello' + ' world'
+// 'hello world'
+// > console.log("hi");
+// hi
+// undefined
+// > let age=30;
+// undefined
